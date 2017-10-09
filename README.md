@@ -1,13 +1,15 @@
 This is an umbrella repo for my dissertation research. Some repos will remain private until they are ready to be shared. 
 
+
 The general organization of the project includes:
-* a Proposal 
-* a Working Paper
+* a [Proposal](https://github.com/usuallycwdillon/proposal)
+* a [Working Paper](https://github.com/usuallycwdillon/workingPaper) PRIVATE
 * my 3 Minute Thesis presentation
-* a simple Model of World Order (a demonstration of the concept)
-* GEORGE
-  - a Generator for Experiments on the Order of Relations in a Global Environment
+* a simple [Model of World Order](https://github.com/usuallycwdillon/proposal/blob/master/worldOrder.nlogo) concept/demonstration 
+* [GEORGE](https://github.com/usuallycwdillon/george) PRIVATE
+  - a Generator for Experiments on the Order and Relations in a Global Environment
   - it should go with MASON
   - this work is being done at George Mason University
   - because I feel very much attached to the project, _a la_ [Looney Tunes](https://youtu.be/ArNz8U7tgU4?t=10)
+ 
  
