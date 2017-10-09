@@ -11,4 +11,3 @@ The general organization of the project includes:
   - it should go with MASON
   - this work is being done at George Mason University
   - because I feel very much attached to the project, _a la_ [Looney Tunes](https://youtu.be/ArNz8U7tgU4?t=10)
- 
