@@ -1,0 +1,6 @@
+[submodule "proposal"]
+	path = proposal
+	url = https://github.com/usuallycwdillon/proposal
+[submodule "george"]
+	path = george
+	url = https://github.com/usuallycwdillon/george
