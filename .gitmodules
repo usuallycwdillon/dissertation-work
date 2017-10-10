@@ -4,3 +4,6 @@
 [submodule "george"]
 	path = george
 	url = https://github.com/usuallycwdillon/george
+[submodule "workingPaper"]
+	path = workingPaper
+	url = https://github.com/usuallycwdillon/workingPaper
