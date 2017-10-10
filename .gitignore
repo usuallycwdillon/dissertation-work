@@ -1,9 +1,8 @@
 george/*
-proposal/*
-simpleWorldSystems/*
-simpleWorldSystems_v1/*
+george/simpleWorldSystems/*
+george/simpleWorldSystems_v1/*
+george/worldOrder_netLogo/*.mov
+george/worldOrder_netLogo/worldOrder_experiment-spreadsheet.csv
+george/worldOrder_netLogo/worldOrder_experiment-spreadsheet2.csv
 workingPaper/*
-worldOrder_netLogo/test3.mov
-worldOrder_netLogo/world_order.mov
-worldOrder_netLogo/worldOrder_experiment-spreadsheet.csv
-worldOrder_netLogo/worldOrder_experiment-spreadsheet2.csv
+proposal/*
